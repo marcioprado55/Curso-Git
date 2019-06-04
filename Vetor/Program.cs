@@ -27,6 +27,8 @@ namespace Vetor
             double avg = soma / n;
             Console.WriteLine(avg);
 
+            Console.WriteLine();
+
         }
     }
 }

@@ -28,6 +28,7 @@ namespace Vetor
             Console.WriteLine(avg);
 
             Console.WriteLine();
+            Console.WriteLine("Teste");
 
         }
     }
